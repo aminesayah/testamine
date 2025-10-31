@@ -90,7 +90,7 @@
   "TIME_DELAY_INTERRUPT": 0.5,
   "DELAY_TIME_FOR_SYNC": 0.1,
   "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
-  "ConfigSongData_Link": "https://raw.githubusercontent.com/miodevs/cf/master/cf/songdata.txt",
+  "ConfigSongData_Link": "https://raw.githubusercontent.com/aminesayah/testamine/refs/heads/main/musicdatta.txt",
   "ConfigUserLevel_Link": "https://raw.githubusercontent.com/miodevs/cf/master/cf/levelup.txt",
   "localizationURL": "https://raw.githubusercontent.com/miodevs/cf/master/cf/localization.txt",
   "ConfigQuest_Link": "https://raw.githubusercontent.com/miodevs/cf/master/cf/dailyquest.txt",
@@ -102,4 +102,5 @@
   "DISTANCE_PERFECT": 250,
   "DISTANCE_GREAT": 450,
   "DISTANCE_GOOD": 600,
+
 }
